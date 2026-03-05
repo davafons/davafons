@@ -11,7 +11,6 @@
 Currently building [nadeshiko.co](https://nadeshiko.co) to help  Japanese learners find better example sentences.
 
 ### Ongoing Projects
-- 🔍 [humancoverage](https://github.com/davafons/humancoverage): Understand how much of your AI-generated code has actually been human reviewed.
 - 🌸 [Nadeshiko](https://nadeshiko.co): Search engine for Japanese sentences in context. Find examples from 1M+ sentences across anime and jdramas in Japanese, English, and Spanish.
 - 🍋 [kabosu](https://github.com/davafons/kabosu): Ruby bindings for sudachi.rs, a Japanese morphological analyzer.
 
