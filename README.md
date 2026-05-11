@@ -2,7 +2,7 @@
 
 [![Twitter](https://img.shields.io/badge/-@davafons__dev-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/davafons_dev)
 [![Blog](https://img.shields.io/badge/-davafons.com-FF5722?style=flat-square&logo=readme&logoColor=white)](https://davafons.com)
-[![Email](https://img.shields.io/badge/-david@davafons.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:david@davafons.com)
+[![Email](https://img.shields.io/badge/-david@davafons.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dav@davafons.com)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+in+Tokyo+%F0%9F%97%BC;Building+nadeshiko.co+%F0%9F%8C%B8&font=Fira+Code&size=22&duration=3000&color=58A6FF&center=false&width=520&height=35" alt="Typing SVG" /></a>
 
