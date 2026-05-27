@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/-davafons.com-FF5722?style=flat-square&logo=readme&logoColor=white)](https://davafons.com)
 [![Email](https://img.shields.io/badge/-dav@davafons.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dav@davafons.com)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+in+Tokyo+%F0%9F%97%BC;Working+in+wariwari.jp;Working+in+shirabe.org&font=Fira+Code&size=22&duration=3000&color=58A6FF&center=false&width=520&height=35" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+in+Tokyo+%F0%9F%97%BC;Working+on+wariwari.jp;Working+on+shirabe.org&font=Fira+Code&size=22&duration=3000&color=58A6FF&center=false&width=520&height=35" alt="Typing SVG" /></a>
 
 > "Moved from Spain 🇮🇨 to Tokyo 🇯🇵 to follow my dreams. Now going indie to build my own."
 
