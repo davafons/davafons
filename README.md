@@ -1,6 +1,6 @@
 # Hi! I'm David Afonso ⌨️🐈
 
-[![Twitter](https://img.shields.io/badge/-@davafons__dev-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/davafons_dev)
+[![Twitter](https://img.shields.io/badge/-@davafons-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/davafons)
 [![Blog](https://img.shields.io/badge/-davafons.com-FF5722?style=flat-square&logo=readme&logoColor=white)](https://davafons.com)
 [![Email](https://img.shields.io/badge/-dav@davafons.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dav@davafons.com)
 
