@@ -15,5 +15,6 @@
 - 🌸 [nadeshiko.co](https://nadeshiko.co): Search engine for Japanese sentences in context. Find examples from 1M+ sentences across anime and jdramas in Japanese, English, and Spanish.
 - 🍋 [kabosu](https://github.com/davafons/kabosu): Ruby bindings for sudachi.rs, a Japanese morphological analyzer.
 - 🍊 [daidai](https://github.com/davafons/daidai): Pure-Ruby Japanese verb & adjective conjugation and deinflection.
+- 🍂 [nagori-fsrs](https://github.com/davafons/nagori-fsrs): Ruby bindings for fsrs-rs, the FSRS-6 spaced-repetition scheduler, optimizer, and simulator.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=davafons&theme=dark&hide_border=true)](https://git.io/streak-stats)
