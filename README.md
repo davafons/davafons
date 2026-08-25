@@ -6,8 +6,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+in+Tokyo+%F0%9F%97%BC;Working+on+wariwari.jp;Working+on+shirabe.org&font=Fira+Code&size=22&duration=3000&color=58A6FF&center=false&width=520&height=35" alt="Typing SVG" /></a>
 
-> "Moved from Spain 🇮🇨 to Tokyo 🇯🇵 to follow my dreams. Now going indie to build my own."
-
 ### Ongoing Projects
 - 🔎 [shirabe.org](https://shirabe.org): Multilingual Japanese dictionary and study app — kanji, radicals, and handwriting search, plus FSRS spaced-repetition decks for words, kanji, and grammar.
 - 🥝 [wariwari.jp](https://wariwari.jp): Split dinners, trips, and shared bills with friends.
