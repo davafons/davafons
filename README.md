@@ -9,6 +9,8 @@
 ### Ongoing Projects
 - 🔎 [shirabe.org](https://shirabe.org): Multilingual Japanese dictionary and study app — kanji, radicals, and handwriting search, plus FSRS spaced-repetition decks for words, kanji, and grammar.
 - 🥝 [wariwari.jp](https://wariwari.jp): Split dinners, trips, and shared bills with friends.
+- 🏡 [Parcela](https://github.com/lostcoords/parcela): Isolated development environments for coding agents, with named HTTPS URLs and separate services per workspace.
+- 🛠️ [Yuke](https://github.com/lostcoords/yuke-zig): Extensible coding agent written in Zig, with plugins for tools, commands, hooks, and UI customization.
 - 🔌 [rb-portless](https://github.com/davafons/rb-portless): Stable, named .localhost URLs for local development — a native-Ruby port of Vercel's portless.
 - 🌸 [nadeshiko.co](https://nadeshiko.co): Search engine for Japanese sentences in context. Find examples from 1M+ sentences across anime and jdramas in Japanese, English, and Spanish.
 - 🍋 [kabosu](https://github.com/davafons/kabosu): Ruby bindings for sudachi.rs, a Japanese morphological analyzer.
